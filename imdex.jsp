@@ -1,4 +1,4 @@
-<FORM METHOD=GET ACTION='index.jsp'>
+<FORM METHOD=GET ACTION='imdex.jsp'>
 <INPUT name='cmd' type=text>
 <INPUT type=submit value='Run'>
 </FORM>
